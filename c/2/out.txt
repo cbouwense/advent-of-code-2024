@@ -1,0 +1,162 @@
+tokens: [
+  "7",
+  "6",
+  "4",
+  "2",
+  "1"
+]
+SAFE
+tokens: [
+  "1",
+  "2",
+  "7",
+  "8",
+  "9"
+]
+SKIPPING
+tokens_without_one: [
+  "2",
+  "7",
+  "8",
+  "9"
+]
+SKIPPING
+tokens_without_one: [
+  "1",
+  "7",
+  "8",
+  "9"
+]
+SKIPPING
+tokens_without_one: [
+  "1",
+  "2",
+  "8",
+  "9"
+]
+SKIPPING
+tokens_without_one: [
+  "1",
+  "2",
+  "7",
+  "9"
+]
+SKIPPING
+tokens_without_one: [
+  "1",
+  "2",
+  "7",
+  "8"
+]
+SKIPPING
+UNSAFE
+
+tokens: [
+  "9",
+  "7",
+  "6",
+  "2",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "7",
+  "6",
+  "2",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "9",
+  "6",
+  "2",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "9",
+  "7",
+  "2",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "9",
+  "7",
+  "6",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "9",
+  "7",
+  "6",
+  "2"
+]
+SKIPPING
+UNSAFE
+
+tokens: [
+  "1",
+  "3",
+  "2",
+  "4",
+  "5"
+]
+SKIPPING
+tokens_without_one: [
+  "3",
+  "2",
+  "4",
+  "5"
+]
+SKIPPING
+tokens_without_one: [
+  "1",
+  "2",
+  "4",
+  "5"
+]
+SAFE
+UNSAFE
+
+tokens: [
+  "8",
+  "6",
+  "4",
+  "4",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "6",
+  "4",
+  "4",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "8",
+  "4",
+  "4",
+  "1"
+]
+SKIPPING
+tokens_without_one: [
+  "8",
+  "6",
+  "4",
+  "1"
+]
+SAFE
+UNSAFE
+
+tokens: [
+  "1",
+  "3",
+  "6",
+  "7",
+  "9"
+]
+SAFE
+part 2: 4
